@@ -1,1 +1,1 @@
-gem riak-client
+gem 'riak-client'
